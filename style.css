@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+}
+
+span{
+	font-size: 18px;
+	color: red;
+}
+
+video{
+	margin-top: -535;
+	margin-left: -1000;
+}
+
+.infoSpan {
+	color: rgb(190, 56, 38);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
